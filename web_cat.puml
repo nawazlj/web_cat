@@ -1,0 +1,198 @@
+@startuml
+annotation java.lang.Override
+annotation java.lang.SuppressWarnings
+class LBJ2.nlp.SentenceSplitter
+class LBJ2.nlp.WordSplitter
+class LBJ2.nlp.seg.PlainToTokenParser
+class LBJ2.nlp.seg.Token
+class LBJ2.parse.Parser
+class com.sun.org.apache.xpath.internal.axes.HasPositionalPredChecker
+class edu.cmu.lti.lexical_db.ILexicalDatabase
+class edu.cmu.lti.lexical_db.NictWordNet
+class edu.cmu.lti.ws4j.RelatednessCalculator
+class edu.cmu.lti.ws4j.impl.WuPalmer
+class edu.cmu.lti.ws4j.util.WS4JConfiguration
+class edu.illinois.cs.cogcomp.lbj.pos.POSTagger
+class edu.stanford.nlp.ling.CoreAnnotations.LemmaAnnotation
+class edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation
+class edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation
+class edu.stanford.nlp.ling.CoreLabel
+class edu.stanford.nlp.pipeline.Annotation
+class edu.stanford.nlp.pipeline.StanfordCoreNLP
+class edu.stanford.nlp.util.CoreMap
+class java.io.BufferedReader
+class java.io.DataInputStream
+class java.io.File
+class java.io.FileInputStream
+class java.io.FileNotFoundException
+class java.io.FileOutputStream
+class java.io.FileReader
+class java.io.FileWriter
+class java.io.IOException
+class java.io.InputStreamReader
+class java.io.PrintStream
+class java.io.PrintWriter
+class java.util.ArrayList
+class java.util.Collections
+class java.util.Comparator
+class java.util.HashMap
+class java.util.LinkedList
+class java.util.List
+class java.util.Map
+class java.util.Map.Entry
+class java.util.Properties
+class java.util.Scanner
+class java.util.Set
+class java.util.StringTokenizer
+class java.util.logging.Level
+class java.util.logging.Logger
+class java.util.regex.Pattern
+class javax.swing.JFrame
+class web_cat.FindingEvents
+class web_cat.LemFrame
+class web_cat.Lemmatization
+class web_cat.Login
+class web_cat.MaxDuplicateWordCount
+class web_cat.NER
+class web_cat.POSTagging
+class web_cat.SimilarityCalculationDemo
+class web_cat.Stemmer
+class web_cat.StopWords
+class web_cat.Web_cat
+class web_cat.Welcome
+class web_cat.WordNet
+class web_cat.WordSimilarity
+web_cat.FindingEvents ..> java.lang.SuppressWarnings
+web_cat.FindingEvents ..> LBJ2.nlp.SentenceSplitter
+web_cat.FindingEvents ..> LBJ2.nlp.WordSplitter
+web_cat.FindingEvents ..> LBJ2.nlp.seg.PlainToTokenParser
+web_cat.FindingEvents ..> LBJ2.nlp.seg.Token
+web_cat.FindingEvents ..> LBJ2.parse.Parser
+web_cat.FindingEvents ..> edu.illinois.cs.cogcomp.lbj.pos.POSTagger
+web_cat.FindingEvents ..> java.io.BufferedReader
+web_cat.FindingEvents ..> java.io.FileNotFoundException
+web_cat.FindingEvents ..> java.io.FileOutputStream
+web_cat.FindingEvents ..> java.io.FileReader
+web_cat.FindingEvents ..> java.io.IOException
+web_cat.FindingEvents ..> java.io.PrintStream
+web_cat.FindingEvents ..> java.util.logging.Level
+web_cat.FindingEvents ..> java.util.logging.Logger
+web_cat.FindingEvents --|> javax.swing.JFrame
+web_cat.LemFrame ..> java.lang.SuppressWarnings
+web_cat.LemFrame ..> edu.stanford.nlp.ling.CoreAnnotations.LemmaAnnotation
+web_cat.LemFrame ..> edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation
+web_cat.LemFrame ..> edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation
+web_cat.LemFrame ..> edu.stanford.nlp.ling.CoreLabel
+web_cat.LemFrame ..> edu.stanford.nlp.pipeline.Annotation
+web_cat.LemFrame ..> edu.stanford.nlp.pipeline.StanfordCoreNLP
+web_cat.LemFrame ..> edu.stanford.nlp.util.CoreMap
+web_cat.LemFrame ..> java.io.BufferedReader
+web_cat.LemFrame ..> java.io.FileNotFoundException
+web_cat.LemFrame ..> java.io.FileReader
+web_cat.LemFrame ..> java.io.FileWriter
+web_cat.LemFrame ..> java.io.IOException
+web_cat.LemFrame ..> java.io.PrintWriter
+web_cat.LemFrame ..> java.util.LinkedList
+web_cat.LemFrame ..> java.util.List
+web_cat.LemFrame ..> java.util.Properties
+web_cat.LemFrame ..> java.util.logging.Level
+web_cat.LemFrame ..> java.util.logging.Logger
+web_cat.LemFrame --|> javax.swing.JFrame
+web_cat.Lemmatization ..> edu.stanford.nlp.ling.CoreAnnotations.LemmaAnnotation
+web_cat.Lemmatization ..> edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation
+web_cat.Lemmatization ..> edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation
+web_cat.Lemmatization ..> edu.stanford.nlp.ling.CoreLabel
+web_cat.Lemmatization ..> edu.stanford.nlp.pipeline.Annotation
+web_cat.Lemmatization ..> edu.stanford.nlp.pipeline.StanfordCoreNLP
+web_cat.Lemmatization ..> edu.stanford.nlp.util.CoreMap
+web_cat.Lemmatization ..> java.io.BufferedReader
+web_cat.Lemmatization ..> java.io.FileNotFoundException
+web_cat.Lemmatization ..> java.io.FileReader
+web_cat.Lemmatization ..> java.io.FileWriter
+web_cat.Lemmatization ..> java.io.IOException
+web_cat.Lemmatization ..> java.io.PrintWriter
+web_cat.Lemmatization ..> java.util.LinkedList
+web_cat.Lemmatization ..> java.util.List
+web_cat.Lemmatization ..> java.util.Properties
+web_cat.Login ..> java.lang.SuppressWarnings
+web_cat.Login --|> javax.swing.JFrame
+web_cat.MaxDuplicateWordCount ..> LBJ2.nlp.SentenceSplitter
+web_cat.MaxDuplicateWordCount ..> LBJ2.nlp.WordSplitter
+web_cat.MaxDuplicateWordCount ..> LBJ2.nlp.seg.PlainToTokenParser
+web_cat.MaxDuplicateWordCount ..> LBJ2.nlp.seg.Token
+web_cat.MaxDuplicateWordCount ..> LBJ2.parse.Parser
+web_cat.MaxDuplicateWordCount ..> com.sun.org.apache.xpath.internal.axes.HasPositionalPredChecker
+web_cat.MaxDuplicateWordCount ..> java.io.BufferedReader
+web_cat.MaxDuplicateWordCount ..> java.io.DataInputStream
+web_cat.MaxDuplicateWordCount ..> java.io.FileInputStream
+web_cat.MaxDuplicateWordCount ..> java.io.FileNotFoundException
+web_cat.MaxDuplicateWordCount ..> java.io.FileReader
+web_cat.MaxDuplicateWordCount ..> java.io.IOException
+web_cat.MaxDuplicateWordCount ..> java.io.InputStreamReader
+web_cat.MaxDuplicateWordCount ..> java.util.ArrayList
+web_cat.MaxDuplicateWordCount ..> java.util.Collections
+web_cat.MaxDuplicateWordCount ..> java.util.Comparator
+web_cat.MaxDuplicateWordCount ..> java.util.HashMap
+web_cat.MaxDuplicateWordCount ..> java.util.List
+web_cat.MaxDuplicateWordCount ..> java.util.Map
+web_cat.MaxDuplicateWordCount ..> java.util.Map.Entry
+web_cat.MaxDuplicateWordCount ..> java.util.Scanner
+web_cat.MaxDuplicateWordCount ..> java.util.Set
+web_cat.MaxDuplicateWordCount ..> java.util.StringTokenizer
+web_cat.NER ..> java.lang.SuppressWarnings
+web_cat.NER ..> edu.illinois.cs.cogcomp.lbj.pos.POSTagger
+web_cat.NER ..> java.io.BufferedReader
+web_cat.NER ..> java.io.FileNotFoundException
+web_cat.NER ..> java.io.FileReader
+web_cat.NER ..> java.io.IOException
+web_cat.NER ..> java.util.logging.Level
+web_cat.NER ..> java.util.logging.Logger
+web_cat.NER --|> javax.swing.JFrame
+web_cat.POSTagging ..> java.lang.SuppressWarnings
+web_cat.POSTagging ..> LBJ2.nlp.SentenceSplitter
+web_cat.POSTagging ..> LBJ2.nlp.WordSplitter
+web_cat.POSTagging ..> LBJ2.nlp.seg.PlainToTokenParser
+web_cat.POSTagging ..> LBJ2.nlp.seg.Token
+web_cat.POSTagging ..> LBJ2.parse.Parser
+web_cat.POSTagging ..> edu.illinois.cs.cogcomp.lbj.pos.POSTagger
+web_cat.POSTagging ..> java.io.BufferedReader
+web_cat.POSTagging ..> java.io.FileNotFoundException
+web_cat.POSTagging ..> java.io.FileOutputStream
+web_cat.POSTagging ..> java.io.FileReader
+web_cat.POSTagging ..> java.io.IOException
+web_cat.POSTagging ..> java.io.PrintStream
+web_cat.POSTagging ..> java.io.PrintWriter
+web_cat.POSTagging ..> java.util.logging.Level
+web_cat.POSTagging ..> java.util.logging.Logger
+web_cat.POSTagging --|> javax.swing.JFrame
+web_cat.SimilarityCalculationDemo ..> edu.cmu.lti.lexical_db.ILexicalDatabase
+web_cat.SimilarityCalculationDemo ..> edu.cmu.lti.lexical_db.NictWordNet
+web_cat.SimilarityCalculationDemo ..> edu.cmu.lti.ws4j.RelatednessCalculator
+web_cat.SimilarityCalculationDemo ..> edu.cmu.lti.ws4j.impl.WuPalmer
+web_cat.SimilarityCalculationDemo ..> edu.cmu.lti.ws4j.util.WS4JConfiguration
+web_cat.Stemmer ..> java.lang.Override
+web_cat.StopWords ..> java.lang.SuppressWarnings
+web_cat.StopWords ..> java.io.BufferedReader
+web_cat.StopWords ..> java.io.File
+web_cat.StopWords ..> java.io.FileNotFoundException
+web_cat.StopWords ..> java.io.FileOutputStream
+web_cat.StopWords ..> java.io.FileReader
+web_cat.StopWords ..> java.io.IOException
+web_cat.StopWords ..> java.io.InputStreamReader
+web_cat.StopWords ..> java.io.PrintStream
+web_cat.StopWords ..> java.util.Scanner
+web_cat.StopWords ..> java.util.logging.Level
+web_cat.StopWords ..> java.util.logging.Logger
+web_cat.StopWords ..> java.util.regex.Pattern
+web_cat.StopWords --|> javax.swing.JFrame
+web_cat.Welcome ..> java.lang.SuppressWarnings
+web_cat.Welcome ..> java.io.FileNotFoundException
+web_cat.Welcome ..> java.io.IOException
+web_cat.Welcome ..> java.util.logging.Level
+web_cat.Welcome ..> java.util.logging.Logger
+web_cat.Welcome --|> javax.swing.JFrame
+web_cat.WordNet ..> java.lang.SuppressWarnings
+web_cat.WordNet --|> javax.swing.JFrame
+web_cat.WordSimilarity ..> java.lang.SuppressWarnings
+web_cat.WordSimilarity --|> javax.swing.JFrame
+@enduml

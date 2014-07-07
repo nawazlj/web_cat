@@ -1,0 +1,224 @@
+(VB emerge) (NNP India) (NN vs) (VB sink) (NNP Pakistan) 
+
+(NNP India) (NN vs) (NNP Pakistan) (VB highlight) (NNP World) (NNP Cup) (NNP U19) (CD 2014) 
+
+(NNP India) (NN vs) (NNP Pakistan) (NN highlight) (NN globe) (NNP Cup) (NNP U19) (CD 2014) 
+
+(NNP India) (NN vs) (NNP Pakistan) (NN infrastructure) 
+
+(IN ind) (NN vs) (NN pak) (JJ 5th) (NNP ODI) (NNP Asia) (NNP Cup) (VB highlight) (CD 18) (NNP March) (CD 2012) 
+
+(NNP India) (NN vs) (NNP Pakistan) (NN comparsion) (RB indeed) 
+
+(JJ AnilKumble) (CD 10) (NN wicket) (NN haul) (NN lsb) (NNP India) (NN vs) (NNP Pakistan) (NN 2nd) (NN test) (NNP Delhi) (NNP February) (CD 48) (CD 1999) (NN rsb) 
+
+(NN junaidkhan) (CD 4) (NN wicket) (NN vs) (NNP India) (CD 1st) (NNP ODI) (NNP India) (NN vs) (NNP Pakistan) (CD 30) (NNP December) (CD 2012) 
+
+(NNP India) (NN vs) (NNP Pakistan) (NN term) (JJ national) (NN identity) (NN culture) 
+
+(NNP India) (NN vs) (NNP Pakistan) (NN basis) (NN economy) 
+
+(NNP India) (NN vs) (NNP Pakistan) (NN comparison) (NN lrb) (CD 20132025) (NN rrb) (NN aspect) 
+
+(IN ind) (NN vs) (NN pak) (CD 30122012) (CD 1st) (NNP ODI) (VB highlight) 
+
+(NN Gujarat) (NN cm) (NN narendramodus) (NNP BJP) (VBZ s) (NNP PM) (NN candidate) (CD 2014) (NNP Lok) (NNP Sabha) (NN poll) 
+
+(NNP NarendraModi) (VBD Declared) (NN PrimeMinister) (JJ Candidate) (NNP BJP) 
+
+(NNP Modi) (VBP declare) (NNP PM) (NN candidate) (NN bjp) (VB get) (CD 49) (NN vote) 
+
+(NNP NarendraModi) (JJ weak) (NNS credentials) (NN pm) (NN candidate) (NN mine) (JJR better) (NN nitishkumar) 
+
+(NNP NarendraModi) (VBZ s) (NN speech) (NNP Ahmedabad) (NN airport) (VBP declare) (NNP BJP) (VBZ s) (NNP PM) (NN candidate) 
+
+(NNP NarendraModi) (VBP announce) (NNP BJP) (VBZ s) (NN candidate) (NN PrimeMinister) (CD 2014) 
+
+(NNP NarendraModi) (NN tea) (NN vendor) (NNP PM) (NN candidate) (NN tv9) 
+
+(NNP NarendraModi) (NNP PrimeMinister) (NN friend) (NNP NarendraModi) (NN party) (VBZ s) (NNP PM) (NN candidate) (VBP say) (NNP LK) (NNP Advani) 
+
+(NNP NarendraModi) (VB select) (NNP PM) (NN candidate) (JJ first) (NN speech) 
+
+(NN bjp) (NN speech) (NNP Shri) (NNP NarendraModi) (VBD Selected) (NNP Pm) (NNP Candidate) (CD 2014) (NNP General) (NNP Election) 
+
+(NNP Narendra) (NNP Modi) (NN address) (NNS media) (VBP declare) (NN pm) (NN candidate) 
+
+(VB live) (NNP NarendraModi) (NNP Speech) (NNP Haryana) (NNP BJP) (VBZ s) (NNP PM) (NN candidatetv9) (NN part2) 
+
+(NNP BJP) (NNP Primeminister) (NNP Candidate) (NNP NarendraModi) (NN slam) (NN congress) (NNP News) (NNP X) 
+
+(NNP Temple) (VBP dedicate) (NNP PM) (NN candidate) (NNP NarendraModi) (NNP Kaushambi) (NNP Tv9) (NNP Gujarati) 
+
+(NNP NarendraModi) (VBZ s) (NN mom) (VB celebrate) (NN anointment) (NNP BJP) (NNP PM) (NN candidate) 
+
+(VB extend) (NN support) (NNP NarendraModi) (NNP PM) (NN candidature) (VBP say) (NNP MohitKamboj) (NNP BBA) 
+
+(NNP ABP) (JJ Live) (JJ special) (NN story) (IN behind) (NNP Modi) (VBZ s) (NN declaration) (NNP BJP) (VBZ s) (NNP PM) (NN candidate) 
+
+(NNP NarendraModi) (NN name) (NNP PM) (NN candidate) (NN bjp) (JJ Journalist) (NNP Diary) (NN tv9) 
+
+(NNP Modi) (VB anoint) (NNP BJP) (NNP PM) (NN candidate) 
+
+(NN bjp) (MD may) (VB announce) (NNP NarendraModi) (NNP PM) (NN candidate) (NNP September) (CD 13) 
+
+(NNP NarendraModi) (NN target) (NNP Congress) (NN name) (NNP Rahul) (NNP PM) (NN candidate) (NNP Tv9) (NNP Gujarati) 
+
+(NNP BJP) (VBZ s) (NNP PM) (NN candidate) (NNP NarendraModi) (NN address) (JJ first) (NN rally) (NNP Chennai) (NN newsx) 
+
+(NNP BlackBerry) (NN sale) 
+
+(NNP BlackBerry) (VBP weigh) (VB sell) (NNP BlackBerry) (NNP News) 
+
+(VB buy) (NNP Blackberry) 
+
+(NNP BlackBerry) (VBP consider) (NN company) (NN sale) 
+
+(NNP BlackBerry) (VBP go) (NN sale) (NN investor) (VBP beat) (CD 81213) (NN motley) (NN fool) 
+
+(NNP BlackBerry) (MD may) (VB put) (NN sale) 
+
+(NNP Blackberry) (CD 35) (CD billion) (NN euro) (NN sale) (NN offer) (VBP agree) (NN principle) 
+
+(NNP Blackberry) (NNP Torch) (CD 9800) (NN sale) 
+
+(NNP Blackberry) (NNP Curve) (CD 8330) (JJ great) (JJ smart) (NN phone) (NN sale) 
+
+(NN blackberry) (JJ bold) (CD 9790) (NN sale) 
+
+(NN blackberry) (JJ bold) (CD 9790) (NN sale) 
+
+(NNP Blackberry) (NN 8700g) (NN sale) 
+
+(NNP BlackBerry) (NNP Torch) (CD 9800) (NN review) 
+
+(NNP Blackberry) (NNP Torch) (CD 9800) (VBG Unboxing) 
+
+(NNP Blackberry) (NNP Torch) (CD 9800) (CD 9810) (RB Disassembly) (JJ complete) (VB take) (RB apart) 
+
+(NN rim) (NNP BlackBerry) (NNP Torch) (CD 9800) (NN review) 
+
+(NNP BlackBerry) (NNP Torch) (CD 9800) 
+
+(NNP Blackberry) (NNP Torch) (CD 9800) (IN en) (NNP Mexico) 
+
+(NNP BlackBerry) (NNP Torch) (CD 9800) (NN hand) (NN review) 
+
+(NNP Blackberry) (JJ bold) (CD 9790) (JJ full) (NN review) (NN hd) 
+
+(NNP BlackBerry) (JJ bold) (CD 9790) (VBG unboxing) 
+
+(NNP BlackBerry) (JJ bold) (CD 9790) 
+
+(NNP Ana) (NN lisis) (NNP Blackberry) (JJ bold) (CD 9790) (IN en) (NN espa) (NN ol) (NNP FAQsBerrycom) 
+
+(NNP BlackBerry) (JJ bold) (CD 9790) (VBG unboxing) 
+
+(NNP Blackberry) (JJ bold) (CD 9900) (NN vs) (JJ bold) (CD 9790) (NN hd) 
+
+(NNP Blackberry) (JJ bold) (CD 9790) 
+
+(NNP SouravGanguly) (NN talk) (NNP RahulDravid) (VBZ s) (NN retirement) 
+
+(NN rahuldravid) (VBZ s) (NN retirement) (NN press) (NN conference) 
+
+(NN rahuldravid) (NN life) (NN post) (NN retirement) 
+
+(NN nobody) (VB replace) (NNP Dravid) (RB No) (CD 3) (NN slot) (NNP Tendulkar) 
+
+(NNP Rahul) (NNP Dravid) (VB get) (JJ emotional) (NNP Sachin) (VBZ s) (NNP Retirement) 
+
+(NN WasimAkram) (NNP RahulDravid) (VBZ s) (NN retirementmp4) 
+
+(NNP Hitler) (VBP react) (NNP RahulDravid) (VBZ s) (NN retirement) 
+
+(NN rahuldravid) (IN till) (NNP Wall) (NN collapse) 
+
+(NN box) (NNP HarshaBhogle) (NNP RahulDravid) (VBZ s) (NNP Retirement) 
+
+(VB inspire) (NNP SachinTendulkar) (NN rahuldravid) 
+
+(NN leak) (NNP Rahul) (NNP Dravid) (VBP speak) (NNP SachinTendulkar) (NN retirement) (NNP India) (NN vs) (NNPS WestIndies) (NN test) (NN series) 
+
+(NN rahuldravid) (NN response) (NNP SachinTendulkar) (NN retirement) 
+
+(NNP RahulDravid) (VBP speak) (NNP SachinTendulkar) (VBZ s) (NNP Retirement) 
+
+(NNP Sachintendulkar) (VBZ s) (JJS best) (NN inning) (NNP ODIs) (NNP India) (NN vs) (NNP Pakistan) (NN lrb) (NNP First) (NNP ODI) (NNP Hundred) (NNP Indian) (NNP Pakistan) (NN rrb) 
+
+(NNP Rob) (VBZ s) (NN tribute) (NN video) (NNP SachinTendulkar) (JJS best) (NN batsman) (NN time) 
+
+(IN Sachin) (NNP Tendulkar) (VB retire) (NNP BBC) (NNP World) (JJ special) 
+
+(NN master) (NN class) (NNP Sachin) (NNP Tendulkar) (VBP show) (NNP John) (NNP Lewis) (JJ true) (NN genius) 
+
+(IN SACHIN) (NNP TENDULKAR) (CD 5) (CD 32) (NN vs) (NNP Australia) (CD 1st) (NNP ODI) (CD 1998) 
+
+(NN tendulkar175runsindvaus5thodiindiancricket) 
+
+(NNP Ganguly) (VBP narrate) (RB never) (VB hear) (NN story) (NNP Sachin) (NNP Tendulkar) 
+
+(NNP SachinTendulkar) (CD 163) (NNP NZ) (NN Christchurch) (CD 2009) 
+
+(IN Sachin) (VBZ s) (NN farewell) (NN speech) 
+
+(IN Sachin) (VBZ s) (JJ final) (NN speech) (NN farewell) (NN mumbaus) 
+
+(IN Sachin) (NNP farewell) (VBP make) (CD million) (NN cry) 
+
+(NNP SACHINTENDULKAR) (JJ last) (JJ emotional) (NN farewell) (NN speech) (NNP WANKHEDE) (NN tribute) (NN video) (IN thankyousachin) 
+
+(NNP AmitabhBachchan) (VBZ s) (NN speech) (NNP SachinTendulkar) 
+
+(NNP SachinTendulkar) (VBZ s) (NNP Farewell) (NNP Party) (NNP AmitabhBachchan) (NNP AamirKhan) (NNP RajThackeray) 
+
+(JJ live) (NNP SachinTendulkar) (NN cry) (NN test) (NN end) (NNP Wankhede) (NN stadiumtv9) 
+
+(NNP SachinTendulkar) (VBZ s) (NNP Farewell) (NN speech) 
+
+(NN laptop) (JJ tablet) (NN scheme) (NNP Rajasthan) (NN government) (CD 2013) (NN distribution) 
+
+(NN laptop) (NN distribution) (NN scheme) 
+
+(JJ CheifMinister) (NNP Shahbaz) (NN laptop) (NN distribution) (NN scheme) (NN corruption) (NN case) (VB hear) (NNP LHC) (NNP Pkg) (NN city42) 
+
+(JJ Free) (NN laptop) (NN distribution) (NN student) (NNP Shahbaz) (NNP Sharif) (NNP University) (NNP Punjab) (NNP Lahore) (NNP Pakistan) 
+
+(NNP Punjab) (NN govt) (VBP distribute) (NN scooty) (IN amongst) (NN girl) (NN laptop) (NN scheme) 
+
+(NN student) (NN violence) (NNP Akhilesh) (VBZ s) (NN laptop) (NN event) 
+
+(NN cm) (NN laptop) (NN scheme) (NNP Faisalabad) (NN part) (CD 1) 
+
+(NN cm) (NN laptop) (NN scheme) (NNP Faisalabad) (NN part) (CD 12) 
+
+(JJ Free) (NN laptop) (NN distribution2012) (NN lrb) (NN part2) (NN rrb) 
+
+(NN strike) (NN laptop) (NN scheme) (JJ new) (NN campus) (NN underpass) 
+
+(JJ ChiefMinister) (NN laptop) (NN distribution) (NN ceremony) 
+
+(VB Alienware) (CD 17) (NN gaming) (NN laptop) (NN review) (NN i7) (NN 4800mq) (NN gtx) (NN 780m) (NN lrb) (NN 4gb) (NN rrb) (NN 16gb) (NN ram) 
+
+(VB Alienware) (CD 14) (NN laptop) (NN review) 
+
+(NNP Sony) (NNP VAIO) (NNP Fit) (NNP Series) (CD 14) (NNP Inch) (NNP Core) (NN i7) (NNP Touch) (NN laptop) (NN review) 
+
+(NN Alienware) (NNP M14x) (NN gaming) (NN laptop) (NN review) (NNP HotHardware) 
+
+(VB review) (NNP Dell) (NNP Alienware) (NNP M14X) (NNP Core) (NN i7) (NN gaming) (NN laptop) 
+
+(NNP Sony) (NNP Vaio) (NNP Fit) (NN 14A) (VBG Unboxing) 
+
+(NNP Sony) (NNP VAIO) (FW pro) (CD 13) (JJ labtop) (VBG unboxing) (NN giveaway) 
+
+(NNP Sony) (NNP VAIO) (NNP Flip) (CD 15) (NN review) 
+
+(NNP Computex) (CD 2013) (NNP Sony) (NNP Vaio) (NNP Duo) (CD 13) (NN handson) (NN lrb) (NN english) (NN rrb) 
+
+(NNP Sony) (NNP Vaio) (NNP Fit) (CD 15) (SYM e) (NN review) (NN espa) (NN ol) 
+
+(NNP Sony) (NNP Vaio) (FW pro) (CD 13) (NN un) (NN bel) (NN ultrabook) (NN tr) (VBZ s) (NN endurant) 
+
+(NNP Sony) (NNP VAIO) (NNP Flip) (CD 15) (NN gaming) (NN demo) 
+
